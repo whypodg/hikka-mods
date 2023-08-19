@@ -7,9 +7,15 @@ You can contact me on Telegram: [*click*](https://t.me/whypodg). Feel free to re
 ## 📥 How install
 
 You can install my modules using raw links. For example:
-```.dlm https://raw.githubusercontent.com/whypodg/hikka-mods/main/{module name}```
+```
+.dlm https://raw.githubusercontent.com/whypodg/hikka-mods/main/<module_name>
+```
 
 And you can use my repository, just add my repo:
-```.addrepo https://raw.githubusercontent.com/whypodg/hikka-mods/main```
+```
+.addrepo https://raw.githubusercontent.com/whypodg/hikka-mods/main
+```
 After this you will can install mod simple:
-```.dlm {module name}```
+```
+.dlm <module_name>
+```
